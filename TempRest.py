@@ -29,10 +29,9 @@ class GetTemperature(Resource):
             data='Temp={0:0.1f}*C  Humidity={1:0.1f}%'.format(temperature, humidity)
 
 
-            #_userId = args['id']
+          
 
             
-
 """           
            items_list=[];
             for item in data:
